@@ -21,8 +21,9 @@ Bookstore/
 
 
 ## Pictures
-Entity RelationShip diagram 
+Entity RelationShip diagram by workbench.
 
+![Screenshot 2024-02-13 074113](https://github.com/swarupe7/bookstore/assets/85427735/0206a667-980b-4317-95a6-ce939800f995)
 
 
 
